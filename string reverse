@@ -1,0 +1,3 @@
+a="hai_buddies"
+print(len(a))
+print(a[::-1])
